@@ -1,0 +1,309 @@
+*{
+    margin: 0;
+    padding: 0;     
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #242426;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+	display:flex;
+}
+.navbar{
+    position: absolute;
+    height: 80px;
+    width: 1900px;
+    border: 2px black;
+    background:#242426;
+    color: white;
+  
+        
+}
+.navbar button{
+background: #242426;
+border: none;
+height: 80px;
+width: 120px;
+font-family: "Times New Roman";
+color: white;
+font-size: 20px;
+}
+
+.src{
+    position: absolute;
+    box-sizing: border-box;
+    top: 30px;
+    left: 1400px; 
+}
+#sub{
+background: #242426;
+color: white;
+border: none;
+}
+.ikonice {
+	position:absolute;
+	right:20%;
+    left: 10%;
+	width:30px;
+	top: 30px;
+    display: flex;
+    margin-bottom: 30px 180px;
+    
+}
+
+#ids img{
+    margin-left: 10px; 
+    
+}
+
+#h{
+position: absolute;
+color: white;
+top: 680px;
+width: 1000px;
+font-size: 15px;
+}
+
+.sst{
+    position: absolute;
+    color: white;
+    top: 220px;
+    left: 1400px;
+    
+}
+.sst{
+    position: absolute;
+    height: 5px;
+}
+#cd{
+position: absolute;
+    left: 80px;
+    top: 40px; 
+    width: 170px;
+}
+
+#acti{
+position: absolute;
+top: 80px;
+width: 300px;
+
+left: 80px;    
+}
+#cod{
+    position: absolute;
+    top: 40px;
+}
+
+#ev{
+position: absolute;
+    top: 140px; 
+
+}
+
+#evl2{
+position: absolute;
+top: 170px;
+width: 300px;
+
+left: 80px;    
+}
+#evl{
+    position: absolute;
+    top: 140px;
+    width: 150px;
+    left: 80px;
+}
+
+#tcp{
+position: absolute;
+    top: 240px; 
+
+}
+
+#tcp2{
+    position: absolute;
+    top: 230px;
+    width: 190px;
+    left: 80px;
+}
+#tcp21{
+position: absolute;
+top: 260px;
+width: 300px;
+
+left: 80px;    
+}
+
+#sf{
+position: absolute;
+    top: 340px; 
+
+}
+
+#sf2{
+    position: absolute;
+    top: 340px;
+    width: 150px;
+    left: 80px;
+}
+#sf21{
+position: absolute;
+top: 370px;
+width: 220px;
+
+left: 80px;    
+}
+#hv{
+position: absolute;
+    top: 450px; 
+
+}
+
+#hv2{
+    position: absolute;
+    top: 450px;
+    width: 150px;
+    left: 80px;
+}
+#hv21{
+position: absolute;
+top: 480px;
+width: 300px;
+
+left: 80px;    
+}
+
+#hn{
+position: absolute;
+    top: 560px; 
+
+}
+
+#hn2{
+    position: absolute;
+    top: 560px;
+    width: 150px;
+    left: 80px;
+}
+#hn21{
+position: absolute;
+top: 590px;
+width: 300px;
+
+left: 80px;    
+}
+
+
+#dvm{
+position: absolute;
+    top: 670px; 
+
+}
+
+#dvm2{
+    position: absolute;
+    top: 670px;
+    width: 150px;
+    left: 80px;
+}
+#dvm21{
+position: absolute;
+top: 700px;
+width: 300px;
+
+left: 80px;    
+}
+
+#ims{
+    position: absolute;
+    left: 600px;
+    top: 0px;
+    opacity: 70%;
+   
+    
+}
+#ims:hover{
+    
+    opacity: 100%;
+    background-color: #b1b2b5;
+}
+
+#ims2{
+    position: absolute;
+    left: 720px;
+    top: 0px;
+    opacity: 70%;
+    
+    
+   
+}
+#ims2:hover{
+    opacity: 100%;
+    background-color: #b1b2b5;
+}
+
+#ims3{
+    position: absolute;
+    left: 840px;
+    top: 0px;
+    opacity: 70%;
+  
+    
+}
+#ims3:hover{
+    
+    opacity: 100%;
+       background-color: #b1b2b5;
+}
+
+#ims4{
+      position: absolute;
+    left: 960px;
+    top: 0px;
+    opacity: 70%; 
+    
+}
+#ims4:hover{
+    
+    opacity: 100%;
+       background-color: #b1b2b5;
+}
+
+.tclp {
+    position: absolute;
+    border: 2px white;
+    height: 1000px;
+    width: 850px;
+    top: 190px;
+    left: 300px;
+    
+}
+#sm11{
+    position: absolute;
+    font-family: "Times New Roman";
+    font-size: 22px;
+    top: 700px;
+    color: white;
+	
+}
+.tclp h1{
+	position:absolute;
+	top: 600px;
+}
+#l12{
+	position: absolute;
+	top: 580px;
+	
+}
+#sm12{
+    position: absolute;
+    font-family: "Times New Roman";
+    font-size: 12px;
+    top: 650px;
+    color: white;
+	
+}
